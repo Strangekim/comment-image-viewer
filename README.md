@@ -58,8 +58,23 @@ Note: Only local file paths are supported. Remote URLs are not.
 
 ---
 ## 🛠 Limitations
-- Only supports JavaScript (`.js`) files currently.
+- 📁 Currently supports only JavaScript (`.js`) files
 
-- Does not auto-resize the editor or scroll space based on image height.
+- 📏 Does **not auto-resize editor spacing** based on image height
 
-- Works best with small to medium sized images.
+- 📐 Works best with small to medium-sized images
+
+- 🔁 Decorations may not behave like real Word-style layout (due to VS Code API limits)
+
+---
+
+## 👤 Author
+
+**Strangekim**
+GitHub: Strangekim
+
+---
+
+## 📄 License
+
+MIT © 2025 Strangekim

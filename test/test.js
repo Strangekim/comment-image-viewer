@@ -1,1 +1,1 @@
-// @img ./sample.jpg 60%
+// @img ./sample2.jpg 60%
